@@ -128,6 +128,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MasterRoasterController.cs" />
     <Compile Include="DataAccessLayer\CoffeeContext.cs" />
     <Compile Include="DataAccessLayer\CoffeeInitializer.cs" />
     <Compile Include="Global.asax.cs">
@@ -174,6 +175,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\MasterRoaster\Create.cshtml" />
+    <Content Include="Views\MasterRoaster\Delete.cshtml" />
+    <Content Include="Views\MasterRoaster\Details.cshtml" />
+    <Content Include="Views\MasterRoaster\Edit.cshtml" />
+    <Content Include="Views\MasterRoaster\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
