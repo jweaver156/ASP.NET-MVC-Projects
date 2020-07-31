@@ -1,3 +1,3 @@
-# ASP.NET-Projects
+# My work with ASP.NET using C# in Visual Studio 
   
-Model-View-Contoller designed projects in the .NET framework
+Utilizing the Model-View-Contoller design pattern, these are my projects in the .NET framework.
